@@ -1,0 +1,17 @@
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\bin\Debug\netstandard2.0\AppCursosExamen.deps.json
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\bin\Debug\netstandard2.0\AppCursosExamen.dll
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\bin\Debug\netstandard2.0\ref\AppCursosExamen.dll
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\bin\Debug\netstandard2.0\AppCursosExamen.pdb
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\obj\Debug\netstandard2.0\AppCursosExamen.csproj.AssemblyReference.cache
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\obj\Debug\netstandard2.0\AppCursosExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\obj\Debug\netstandard2.0\Paginas\Curso\Inicio.xaml.g.cs
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\obj\Debug\netstandard2.0\AppCursosExamen.AssemblyInfoInputs.cache
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\obj\Debug\netstandard2.0\AppCursosExamen.AssemblyInfo.cs
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\obj\Debug\netstandard2.0\AppCursosExamen.csproj.CoreCompileInputs.cache
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\obj\Debug\netstandard2.0\AppCursosExamen.dll
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\obj\Debug\netstandard2.0\refint\AppCursosExamen.dll
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\obj\Debug\netstandard2.0\AppCursosExamen.pdb
+C:\Users\stali\source\repos\AppCursosExamen\AppCursosExamen\obj\Debug\netstandard2.0\Paginas\Curso\nuevoCurso.xaml.g.cs

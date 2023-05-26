@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Nuevo Curso"
+             x:Class="AppCursosExamen.Paginas.Curso.nuevoCurso">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="id" Text="Id"/>
+            <Entry Placeholder="Nombre Curso"
+                   x:Name="nombreCurso"
+                   TextTransform="Uppercase"/>
+            <Entry Placeholder="Descripcion"
+                   x:Name="descripcionCurso"/>
+            <Entry Placeholder="Tutor"
+                   x:Name="Tutor"/>
+            <Button Text="Guardar"
+                    Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
